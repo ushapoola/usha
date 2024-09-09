@@ -1,0 +1,33 @@
+check= Please print it
+
+Url=http://127.0.0.1/orangehrm-2.5.0.2/login.php
+
+### Login checks
+u=usha123
+p=usha123
+
+
+xu= //input[@ name='txtUserName']
+xp=//input[starts-with(@name,'txtP')]
+xs=//input[starts-with(@name,'Sub')]
+###add one employee
+
+XPIM=//li[@id='pim']
+XADD=//*[@id="pim"]/ul/li[2]/a/span
+Xframe=//iframe[@id='rightMenu']
+
+
+Xid=//input[@id='txtEmployeeId']
+Xlast=//input[@name='txtEmpLastName']
+XFirst=//input[@name='txtEmpFirstName']
+Xmiddle=//input[@name='txtEmpMiddleName']
+Xnick=//input[@name='txtEmpNickName']
+
+Xpho=//input[@id='photofile']
+Xsave=//input[@id='btnEdit']
+Xback=//iframe[@id='rightMenu']
+
+
+
+
+

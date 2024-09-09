@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-03-26T16:00:37 IST" name="Default suite" finished-at="2024-03-26T16:00:53 IST" duration-ms="16086">
+    <groups>
+    </groups>
+    <test started-at="2024-03-26T16:00:37 IST" name="Default test" finished-at="2024-03-26T16:00:53 IST" duration-ms="16086">
+      <class name="testcasesORG.tcExecution">
+        <test-method signature="login()[pri:0, instance:testcasesORG.tcExecution@3d51f06e]" started-at="2024-03-26T16:00:37 IST" name="login" finished-at="2024-03-26T16:00:40 IST" duration-ms="3058" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="testcase()[pri:0, instance:testcasesORG.tcExecution@3d51f06e]" started-at="2024-03-26T16:00:40 IST" name="testcase" finished-at="2024-03-26T16:00:53 IST" duration-ms="12944" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase -->
+      </class> <!-- testcasesORG.tcExecution -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
